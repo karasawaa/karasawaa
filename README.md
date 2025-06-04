@@ -4,7 +4,7 @@
 
 # About me
 
-<h2 align="left">I'm Henry, a 19 years old Software Engineering student and a Full Stack Developer passionate about building innovative solutions.</h2>
+<h3 align="left">I'm Henry Karasawa, a 19 years old Software Engineering student and a Full Stack Developer passionate about building innovative solutions.</h3>
 
 ###
 
