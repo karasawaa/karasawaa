@@ -25,9 +25,9 @@
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img width="12" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   <img width="12" />
   <br>
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" />
